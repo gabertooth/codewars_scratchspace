@@ -1,1 +1,1 @@
-# codewars_scratchspace
+# Scratchspace for Solving Daily CodeWar Challenges
